@@ -4,9 +4,13 @@
 <br />
 <br />
 
-Hi, I'm ZOKIRJON KHOLIKOV a passionate self-taught frontend developer and a freelance software engineer from Uzbekistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Zokirjon Kholikov 👋
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Frontend Engineer with 4+ years of experience building modern web applications using React, Next.js, and TypeScript.
+
+I focus on frontend architecture, performance optimization, and building reusable UI systems. I enjoy solving complex UI challenges and creating scalable, maintainable interfaces.
+
+Most of my professional work is in private repositories, but I enjoy exploring new ideas and sharing knowledge with the developer community.
   
 - 💼 any freelance work? do reach, [email](mailto:zokirjonxoliqov97@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
