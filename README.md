@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<a href="https://www.linkedin.com/in/zokirjon-kholikov-a313a51a2/">
+<a href="[https://www.linkedin.com/in/zokirjon-kholikov-a313a51a2/](https://www.linkedin.com/in/zokirjon-kholikov/)">
   <img align="left" alt="Zokirjon's LinkedIN" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
@@ -29,13 +29,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning GraphQl
+- 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about ReactJs
 
 📈 my github stats
 
 <a href="#">
-  <img align="center" alt="Genemator's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZokirjonKholikov&layout=compact&langs_count=20&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+  <img align="center" alt="Genemator's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zokirjon-kholikov&layout=compact&langs_count=20&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
 </a>
 
